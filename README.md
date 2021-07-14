@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Jeff</h1>
+<h3 align="center">Full Stack Engineer at <a href="https://spatial.io">Spatial</a> | Check out my <a href="https://jzxhuang.medium.com">blog</a> | Or my <a href="https://jzxhuang.com/">portfolio </a></h3>
+
+I love web development and product/design thinking.
+- 🚀 My current favourite stack is React, TypeScript, Next.js, Chakra UI
+- 🥳 Other technologies I love are react-query, GraqhQL, React Native, Elm
+- 👯 Pronouns: he/him
+- 🎓 Studied Computer Engineering at UWaterloo
+- 💡 Love travelling, snowboarding, and trying new food
 
 <!--
 **jzxhuang/jzxhuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
