@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jeff</h1>
-<h3 align="center">Full Stack Engineer at <a href="https://spatial.io">Spatial</a> | Check out my <a href="https://jzxhuang.medium.com">blog</a> | Or my <a href="https://jzxhuang.com/">portfolio </a></h3>
+<h3 align="center">Software Engineer at <a href="https://spatial.io">Spatial</a> | Check out my <a href="https://jzxhuang.medium.com">blog</a> or my <a href="https://jzxhuang.com/">portfolio </a></h3>
 
-I love web development and product/design thinking.
-- 🚀 My current favourite stack is React, TypeScript, Next.js, Chakra UI
-- 🥳 Other technologies I love are react-query, GraqhQL, React Native, Elm
-- 👯 Pronouns: he/him
-- 🎓 Studied Computer Engineering at UWaterloo
-- 💡 Love travelling, snowboarding, and trying new food
+<h4>I love web development, design, and product thinking</h4>
+
+- 🚀 If started a new project today, I would use: TypeScript, React, Next.js, [Chakra UI](https://chakra-ui.com/), [react-query](https://react-query.tanstack.com/), [Jest](https://jestjs.io/), and [Storybook](https://storybook.js.org/)
+- 💖 I also love: [Elm](https://elm-lang.org/), React Native, WebAssembly, and [Redux Saga](https://redux-saga.js.org/)
+- 👯 My pronouns are: he/him
+- 🎓 I studied Computer Engineering at [UWaterloo](https://uwaterloo.ca/)
+- 💡 My hobbies include: travelling (15+ countries visited), snowboarding (qualified instructor), and trying new food
+- 🌱 I'm currently interested in: all things blockchain, especially Web3, the Metaverse, and NFTs. I'm also excited about cross-platform UI development ([React Native Desktop](https://www.youtube.com/watch?v=9L4FFrvwJwY) looks promising) and accessible design and web development.
 
 <!--
 **jzxhuang/jzxhuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
