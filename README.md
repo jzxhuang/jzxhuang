@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jeff</h1>
-<h3 align="center">Software Engineer at <a href="https://spatial.io">Spatial</a> | Check out my <a href="https://jzxhuang.medium.com">blog</a> or my <a href="https://jzxhuang.com/">portfolio </a></h3>
+<h3 align="center">Software Engineer at <a href="https://spatial.io">Spatial</a></h3>
+<h4 align="center"><a href="https://jzxhuang.medium.com">Blog</a> | <a href="https://jzxhuang.com/">Personal Site</a> | <a href="https://www.linkedin.com/in/jzxhuang/">LinkedIn</a> | <a href="https://twitter.com/jeffzxh">Twitter</a></h4>
 
-I'm passionate about crafting beautiful user experiences that push the boundaries of how we interact with our devices. I spend most of my time writing code, but I also love design and product thinking.
+I'm passionate about crafting beautiful user experiences that push the boundaries of how we interact with our virtual world. I spend most of my time writing code, but I also love design and product thinking.
 
-- 🚀 I love TypeScript, React, Next.js, and I'm always excited about the next cool thing in the web ecosystem
+- 💖 My daily tech stack: TypeScript, React, Next.js, React Query, Tailwind
 - 🌲 I have a soft spot for functional languages, especially [Elm](https://elm-lang.org/)
 - 👯 My pronouns are: he/him
 - 🎓 I studied Computer Engineering at [UWaterloo](https://uwaterloo.ca/)
 - 💡 My hobbies include: travelling (15+ countries visited), snowboarding (qualified instructor), eating lots of food and drinking lots of tea
-- 🌱 Some technologies I'm excited about: edge computing, WebAssembly, NFTs, cross-platform UI development, mixed reality, and "the metaverse"
 
 <!--
 **jzxhuang/jzxhuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
